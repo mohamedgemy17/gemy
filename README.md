@@ -1,0 +1,2 @@
+# gemy
+gemy odoo
